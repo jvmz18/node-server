@@ -1,0 +1,16 @@
+{
+  "name": "lista1",
+  "version": "1.0.0",
+  "description": "lista de tareas con node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhonatan valencia",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "promise": "^8.3.0",
+    "swr": "^2.2.2"
+  }
+}
